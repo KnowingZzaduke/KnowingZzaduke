@@ -1,4 +1,6 @@
-- 👋 Hola, Soy José
+👋 Hola, Soy José
+
+![Portada-Jose](https://user-images.githubusercontent.com/114692242/199282983-5b68275d-da38-4607-8fc4-36df9919eea3.png)
 
 Soy un desarrollador frotend Junior autodidacta apasionado por la programación y todo lo relacionado con la tecnología, me gusta aprender cosas nuevas cada día que aporten gran valor a mi vida y al mundo. Utilizo las tecnologías HTML, CSS, SASS y JAVASCRIPT, cada día trato de mejorar con estas tencologías para aplicar los mejores estándares de calidad en estas, de tal manera que pueda entregar proyectos de buena calidad.👨‍💻✔️
 
