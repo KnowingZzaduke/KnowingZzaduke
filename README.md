@@ -24,7 +24,7 @@ Apasionado por la creación de experiencias digitales cautivadoras y funcionales
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KnowingZzaduke&show_icons=true&theme=dark&locale=en&layout=compact" alt="KnowingZzaduke" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=knowingZzaduke&show_icons=true&theme=dark&locale=es" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
