@@ -84,11 +84,6 @@ Passionate about crafting captivating and functional digital experiences. I'm a 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KnowingZzaduke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowingZzaduke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnowingZzaduke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
