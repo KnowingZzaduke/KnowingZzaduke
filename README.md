@@ -1,46 +1,78 @@
-<h1 align="center">Hey, I'm José Luis🫡</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jos%C3%A9+Luis+%F0%9F%91%8B;Frontend+Developer+%E2%9A%9B%EF%B8%8F;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KnowingZzaduke&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/josex-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+---
 
+### 🇪🇸 Sobre mí
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<br/>
-Apasionado por la creación de experiencias digitales cautivadoras y funcionales, soy un Programador Frontend con habilidades sólidas en el desarrollo web. Mi enfoque se centra en la fusión de diseño atractivo y código eficiente para construir interfaces que ofrecen una experiencia de usuario excepcional.👌
-<br/>
+Apasionado por la creación de experiencias digitales cautivadoras y funcionales. Soy **Desarrollador Frontend** con habilidades sólidas en desarrollo web. Mi enfoque se centra en fusionar diseño atractivo con código eficiente para construir interfaces que ofrecen una experiencia de usuario excepcional. ✨
 
-  --------------------------------------------------------------------------------------------------------------------
-<br/>
+### 🇬🇧 About me
 
-Passionate about creating captivating and functional digital experiences, I am a Frontend Programmer with strong web development skills. My focus is on merging engaging design and efficient code to build interfaces that deliver an exceptional user experience.👌
-<br/>
+Passionate about crafting captivating and functional digital experiences. I'm a **Frontend Developer** with strong web development skills. My focus is on merging engaging design with efficient code to build interfaces that deliver an exceptional user experience. ✨
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
+- 🔭 Currently working on **frontend projects** with React & Tailwind
+- 🌱 Always learning and exploring **new web technologies**
+- 💬 Ask me about **HTML, CSS, JavaScript & React**
+- ⚡ Fun fact: *I believe great UI is invisible — it just feels right*
 
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
+<br clear="right" />
 
+---
 
-<hr width="36%" >
+### 🛠️ Languages & Tools
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KnowingZzaduke&show_icons=true&theme=dark&locale=en&layout=compact" alt="KnowingZzaduke" /></p>
+### 📊 GitHub Stats
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=knowingZzaduke&show_icons=true&theme=dark&locale=en" alt="KnowingZzaduke" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KnowingZzaduke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowingZzaduke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KnowingZzaduke&theme=dark" alt="KnowingZzaduke" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/josex-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose luis" height="30" width="40" /></a>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnowingZzaduke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Last Edited on: 19/02/2024
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KnowingZzaduke&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josex-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KnowingZzaduke" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/KnowingZzaduke">KnowingZzaduke</a> — Thanks for visiting!</i>
+</p>
